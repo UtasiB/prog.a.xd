@@ -1,2 +1,2 @@
-# progafinom
-https://utasib.github.io/progafinom/index.html
+# prog.a.xd
+https://utasib.github.io/prog.a.xd/
